@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 - Front-End:       HTML,   JavaScript/ES6,   TypeScript,   React JS(Stateless Component),   iOS/Android (React Native CLI).
 - Web Design:    CSS,   SCSS,   Material UI,   Bootstrap,   Micromedia DreamWeaver.
-- Back-End:        Node JS,   Express JS,   MongoDB(learning).
+- Back-End:        Node JS,   Express JS,   MongoDB.
 - Graphic Design:   Adobe xD,   Figma.
 - Cloud Computing:  Linux(Ubuntu),   Docker,   Kubernetes etc.
-- Other Services:    Microsoft Office,     Microsoft Visual Basic.
+- Other Services:    SQL PL/SQL,    C#
 
 
 
