@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🐱‍ My Core Skills:
 
-- Front-End:       HTML,   JavaScript/ES6,   TypeScript,   React JS(Stateless Component),   GraphQL.
+- Front-End:       HTML,   JavaScript/ES6,   TypeScript,   React JS(Stateless Component),   iOS/Android (React Native CLI).
 - Web Design:    CSS,   SCSS,   Material UI,   Bootstrap,   Micromedia DreamWeaver.
 - Back-End:        Node JS,   Express JS,   MongoDB(learning).
 - Graphic Design:   Adobe xD,   Figma.
